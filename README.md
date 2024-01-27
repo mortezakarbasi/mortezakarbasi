@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Morteza</h1>
 <h3 align="center">Human Genetics student from Iran</h3>
 
